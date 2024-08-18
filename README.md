@@ -39,7 +39,7 @@ We calculate dynamic pricing adjustments based on demand and supply multipliers:
 
 - **Demand Multiplier**: Adjusted based on high and low demand percentiles.
 - **Supply Multiplier**: Adjusted based on high and low supply percentiles.
-- **Adjusted Ride Cost**: Calculated using demand and supply multipliers.
+- **Adjusted Ride Cost**: Calculated using demand and supply multipliers .
 
 ### Profitability Analysis 📈
 
