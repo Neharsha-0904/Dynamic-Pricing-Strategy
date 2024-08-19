@@ -6,7 +6,7 @@ Welcome to the Dynamic Pricing Strategy Project! This project aims to enhance pr
 
 The goal of this project is to develop and evaluate a dynamic pricing model based on ride demand, supply, and historical costs. We aim to improve profitability by adjusting ride prices dynamically.
 
-## Dataset Description 📊
+## Dataset Description 
 
 The dataset used in this project includes information about ride requests and historical ride costs. The key columns in the dataset are:
 
