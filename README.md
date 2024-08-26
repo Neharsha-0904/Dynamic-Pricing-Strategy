@@ -11,7 +11,7 @@ The goal of this project is to develop and evaluate a dynamic pricing model base
 The dataset used in this project includes information about ride requests and historical ride costs. The key columns in the dataset are:
 
 - **Number_of_Riders**: Number of riders requesting a ride.
-- **Number_of_Drivers**: Number of drivers available .
+- **Number_of_Drivers**: Number of drivers available.
 - **Location_Category**: Location of the ride (Urban, Suburban, Rural).
 - **Customer_Loyalty_Status**: Loyalty status of the customer (Silver, Regular).
 - **Number_of_Past_Rides**: Number of rides the customer has taken in the past.
