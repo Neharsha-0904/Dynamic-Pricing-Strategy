@@ -18,7 +18,7 @@ The dataset used in this project includes information about ride requests and hi
 - **Average_Ratings**: Average rating of the customer.
 - **Time_of_Booking**: Time of day the ride is booked (Morning, Afternoon, Evening, Night).
 - **Vehicle_Type**: Type of vehicle requested (Premium, Economy).
-- **Expected_Ride_Duration**: Expected duration of the ride in minutes.
+- **Expected_Ride_Duration**: Expected duration of the ride in minutes
 - **Historical_Cost_of_Ride**: Historical cost of the ride.
 
 ## Approach 🛠️
